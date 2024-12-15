@@ -126,9 +126,6 @@ echo "<script>alert('Invalid Details');</script>";
 </div>
 </div>
 </div>  
-       
-             
- 
     </div>
     </div>
 
